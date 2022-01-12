@@ -1,0 +1,1 @@
+# Google-translate-add-playback-speed-setting-for-translation-audio-playback
